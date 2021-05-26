@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Android Apps Development
 - 📫 How to reach me: panos30fyllou@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panos30fyllou)](https://github.com/Panos30fyllou/github-readme-stats)
+
 [![Panos30fyllou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panos30fyllou)](https://github.com/Panos30fyllou/github-readme-stats)
 
 <!---
